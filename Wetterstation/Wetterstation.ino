@@ -544,7 +544,7 @@ void set_snow_animation(bool active) {
   for (int i = 0; i < NUM_FLAKES; i++) {
     if (active && snow_flakes[i] == NULL) {
       snow_flakes[i] = lv_obj_create(lv_scr_act());
-      lv_obj_set_size(snow_flakes[i], 5, 5);                                 /
+      lv_obj_set_size(snow_flakes[i], 5, 5);                               
       lv_obj_set_style_radius(snow_flakes[i], LV_RADIUS_CIRCLE, 0);          
       lv_obj_set_style_bg_color(snow_flakes[i], lv_color_hex(0xFFFFFF), 0);  
       lv_obj_set_style_radius(snow_flakes[i], LV_RADIUS_CIRCLE, 0);          
