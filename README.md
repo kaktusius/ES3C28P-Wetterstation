@@ -8,6 +8,10 @@ ESP32-S3 ES3C28P MODUL
 
 Bitte in der *.ino WLAN- Daten eintragen und die Koordinaten Latitude/ Longtitude und ggf. Zeitzone
 
+Achtung ! Dieses Modul erfordet LVGL 8.2.0
+
+
+
 Hier Fotos von meinem fertigen Projekt:
 
 
