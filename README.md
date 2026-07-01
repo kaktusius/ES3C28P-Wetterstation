@@ -8,7 +8,7 @@ ESP32-S3 ES3C28P MODUL
 
 Bitte in der *.ino WLAN- Daten eintragen und die Koordinaten Latitude/ Longtitude und ggf. Zeitzone
 
-Hier ist Fotos von meinem fertigen Projekt:
+Hier Fotos von meinem fertigen Projekt:
 
 
 
